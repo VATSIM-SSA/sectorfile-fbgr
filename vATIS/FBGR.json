@@ -1,6 +1,8 @@
 {
-	"Name": "FBGR Gaborone FIR v2",
-	"Composites": [
+	"Name": "FBGR Gaborone FIR v3",
+	"updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fbgr/refs/heads/main/vATIS/FBGR.json",
+	"updateSerial": 2025061201,
+	"stations": [
 		{
 			"Name": "Kasane Intl",
 			"Identifier": "FBKE",
