@@ -8,10 +8,10 @@
 	<autoAtot mode="true" />
 	<invalidateAtTsat mode="true" />
 	<invalidateAtTobt mode="true" />
-	<Rates url="https://raw.githubusercontent.com/VATSIM-SSA/SSA-CDM/refs/heads/main/HTDC/rate.txt" />
-	<Taxizones url="https://raw.githubusercontent.com/VATSIM-SSA/SSA-CDM/refs/heads/main/HTDC/taxizones.txt" />
-	<Ctot url="https://raw.githubusercontent.com/VATSIM-SSA/SSA-CDM/refs/heads/main/HTDC/CTOT.txt" />
-	<sidInterval url="https://raw.githubusercontent.com/VATSIM-SSA/SSA-CDM/refs/heads/main/HTDC/sidinterval.txt" />
+	<Rates url="https://raw.githubusercontent.com/VATSIM-SSA/SSA-CDM/refs/heads/main/FBGR/rate.txt" />
+	<Taxizones url="https://raw.githubusercontent.com/VATSIM-SSA/SSA-CDM/refs/heads/main/FBGR/taxizones.txt" />
+	<Ctot url="https://raw.githubusercontent.com/VATSIM-SSA/SSA-CDM/refs/heads/main/FBGR/CTOT.txt" />
+	<sidInterval url="https://raw.githubusercontent.com/VATSIM-SSA/SSA-CDM/refs/heads/main/FBGR/sidinterval.txt" />
 	<DefaultTaxiTime minutes="5" />
 	<DeIceTimes light="5" medium="9" heavy="12" super="15"/>
 	<DeIceRemTaxi rem1="0" rem2="0" rem3="0" rem4="0" rem5="0"/>
