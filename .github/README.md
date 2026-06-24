@@ -18,7 +18,7 @@ The Gaborone sector file covers the entire airspace and territory of Botswana.
 
 ## Countries & Territories
 
-- [Botswana](https://eaip.vatssa.com/country/botswana)
+- Botswana
 
 ## Key Airports
 
@@ -29,7 +29,7 @@ The Gaborone sector file covers the entire airspace and territory of Botswana.
 
 Full sector file releases are available on [AeroNav GNG](https://files.aero-nav.com/FBGR).
 
-For setup, see the VATSSA [EuroScope & Sector File Installation Guide](https://github.com/VATSIM-SSA/sectorfile-overview/wiki).
+For setup, see the VATSSA [EuroScope & Sector File Installation Guide](https://docs.vatssa.com/New-Controllers/).
 
 > [!WARNING]
 > Releases published on GitHub do not include all essential files for the sector file. Always install the complete package from AeroNav GNG.
